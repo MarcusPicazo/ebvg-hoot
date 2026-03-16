@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #000; /* Fondo negro para que resalte el espacio */
+  overflow-x: hidden;
+}
+
+/* Scrollbar personalizado para las pestañas del maestro */
+.custom-tabs-scrollbar::-webkit-scrollbar {
+  height: 4px;
+}
+.custom-tabs-scrollbar::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+}
+.custom-tabs-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(236, 72, 153, 0.5);
+  border-radius: 10px;
+}
+.custom-tabs-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(236, 72, 153, 0.8);
+}
