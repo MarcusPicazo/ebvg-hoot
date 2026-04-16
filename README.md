@@ -5,6 +5,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC.svg)](https://tailwindcss.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-10-FFCA28.svg)](https://firebase.google.com/)
 
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge&logo=netlify)](https://ebvg-hoot.netlify.app)
+
 *(English version below)*
 
 ---
@@ -13,7 +15,10 @@
 
 **ebvg-hoot** es una plataforma de aprendizaje interactivo en tiempo real (estilo Kahoot), desarrollada exclusivamente para transformar la educación informática en la Escuela Berta Von Glumer.
 
-Esta aplicación fue construida y refactorizada bajo principios de **Clean Architecture** por Marcus Escalona, Front-End Engineer.
+Esta aplicación fue construida y refactorizada bajo principios de **Clean Architecture** por Marcus Escalona, Systems Engineer & Product Engineer.
+
+### 🔗 Enlace a la plataforma
+Puedes probar la aplicación en vivo aquí: [https://ebvg-hoot.netlify.app](https://ebvg-hoot.netlify.app)
 
 ### Arquitectura y Refactorización
 El proyecto fue migrado de un prototipo monolítico a una estructura modular profesional orientada a la escalabilidad, utilizando **Vite**:
@@ -39,7 +44,10 @@ El proyecto fue migrado de un prototipo monolítico a una estructura modular pro
 
 **ebvg-hoot** is a real-time interactive learning platform (Kahoot clone), developed exclusively to transform computer science education at the Berta Von Glumer School.
 
-This application was built and refactored following **Clean Architecture** principles by Marcus Escalona, Front-End Engineer.
+This application was built and refactored following **Clean Architecture** principles by Marcus Escalona, Systems Engineer & Product Engineer.
+
+### 🔗 Live Link
+Access the live application here: [https://ebvg-hoot.netlify.app](https://ebvg-hoot.netlify.app)
 
 ### Architecture and Refactoring
 The project was migrated from a monolithic prototype to a professional, scalable modular structure using **Vite**:
